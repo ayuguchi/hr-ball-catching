@@ -1,5 +1,3 @@
 # hr-ball-catching
 
-* Python
-
-* OpenRTM
+* RT-Conmpnents for ball-catching task using OpenRTM
