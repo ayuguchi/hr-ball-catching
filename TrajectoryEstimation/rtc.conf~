@@ -1,4 +1,0 @@
-corba.nameservers: hrp4002c
-naming.formats: %n.rtc
-logger.enable: NO
-
