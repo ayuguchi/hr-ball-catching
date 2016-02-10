@@ -1,3 +1,3 @@
 # hr-ball-catching
 
-* RT-Conmpnents for ball-catching task using OpenRTM
+This repository includes RT-Components for ball-catching task.
